@@ -22,7 +22,7 @@ To run the application locally; clone the repo, install dependencies and run the
 
 ```
 $ Create a project on firebase
-$ git clone https://github.com/Emmanuel-code/amazon-clone
+$ git clone https://github.com/Emmanuel-code/amazon-clone-stripe-firebase.git
 $ cd amazon-clone
 $ create a file `.env.local` to store credentials from firebase or you can defaultly copy the config credentials in  the firebase file in src 
 $ yarn && yarn start
